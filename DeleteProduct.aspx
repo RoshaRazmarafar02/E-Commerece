@@ -53,7 +53,7 @@
                                 <div>
                                     <div class="float-right">2021-04-20 10:14pm</div>
                                     <h3>Product Name #1502</h3>
-                                    
+
 
                                 </div>
                                 <dl class="row col-8 px-4">
@@ -80,11 +80,15 @@
 
                         </div>
                     </div>
-                    <div class="list-group-item">
+                    <div class="list-group-item text-center ">
                         <div class="row">
-                            <div class=" offset-md-1 col-auto">
-                                <i class="far fa-frown"></i>
+                            <div class="col-2 offset-5">
+                                <i class="far fa-7x fa-frown"></i>
                             </div>
+
+                        </div>
+                        <div class="row col-6 offset-3">
+                            <h2>OOPS! There is no product with this Product ID...</h2>
                         </div>
                     </div>
                 </div>
