@@ -24,8 +24,8 @@
                 <a href="../../index2.html"><b>Product</b>Management</a>
             </div>
 
-            <div class="card">
-                <div class="card-body login-card-body">
+            <div class="card rounded rounded-3">
+                <div class="card-body login-card-body rounded rounded-3">
 
                     <form action="../../index3.html" method="post">
                         <div class="input-group mb-3">

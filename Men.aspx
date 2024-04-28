@@ -138,8 +138,13 @@
                                 </div>
                             </div>
                             <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">View options</a></div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent row">
+                                <div class="col-6">
+                                    <asp:Button ID="Button1" runat="server" Text="View Product" class="btn btn-dark col-12" />
+                                </div>
+                                <div class="col-6">
+                                    <asp:Button ID="Button2" runat="server" Text="Add to Cart" class="btn btn-outline-dark col-12" />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -168,8 +173,13 @@
                                 </div>
                             </div>
                             <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent row">
+                                <div class="col-6">
+                                    <asp:Button ID="Button3" runat="server" Text="View Product" class="btn btn-dark col-12" />
+                                </div>
+                                <div class="col-6">
+                                    <asp:Button ID="Button4" runat="server" Text="Add to Cart" class="btn btn-outline-dark col-12" />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -190,8 +200,13 @@
                                 </div>
                             </div>
                             <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent row">
+                                <div class="col-6">
+                                    <asp:Button ID="Button5" runat="server" Text="View Product" class="btn btn-dark col-12" />
+                                </div>
+                                <div class="col-6">
+                                    <asp:Button ID="Button6" runat="server" Text="Add to Cart" class="btn btn-outline-dark col-12" />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -217,8 +232,13 @@
                                 </div>
                             </div>
                             <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent row">
+                                <div class="col-6">
+                                    <asp:Button ID="Button7" runat="server" Text="View Product" class="btn btn-dark col-12" />
+                                </div>
+                                <div class="col-6">
+                                    <asp:Button ID="Button8" runat="server" Text="Add to Cart" class="btn btn-outline-dark col-12" />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -239,8 +259,13 @@
                                 </div>
                             </div>
                             <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent row">
+                                <div class="col-6">
+                                    <asp:Button ID="Button9" runat="server" Text="View Product" class="btn btn-dark col-12" />
+                                </div>
+                                <div class="col-6">
+                                    <asp:Button ID="Button10" runat="server" Text="Add to Cart" class="btn btn-outline-dark col-12" />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -258,8 +283,13 @@
                                 </div>
                             </div>
                             <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">View options</a></div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent row">
+                                <div class="col-6">
+                                    <asp:Button ID="Button11" runat="server" Text="View Product" class="btn btn-dark col-12" />
+                                </div>
+                                <div class="col-6">
+                                    <asp:Button ID="Button12" runat="server" Text="Add to Cart" class="btn btn-outline-dark col-12" />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -288,8 +318,13 @@
                                 </div>
                             </div>
                             <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent row">
+                                <div class="col-6">
+                                    <asp:Button ID="Button13" runat="server" Text="View Product" class="btn btn-dark col-12" />
+                                </div>
+                                <div class="col-6">
+                                    <asp:Button ID="Button14" runat="server" Text="Add to Cart" class="btn btn-outline-dark col-12" />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -315,8 +350,13 @@
                                 </div>
                             </div>
                             <!-- Product actions-->
-                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent row">
+                                <div class="col-6">
+                                    <asp:Button ID="Button15" runat="server" Text="View Product" class="btn btn-dark col-12" />
+                                </div>
+                                <div class="col-6">
+                                    <asp:Button ID="Button16" runat="server" Text="Add to Cart" class="btn btn-outline-dark col-12" />
+                                </div>
                             </div>
                         </div>
                     </div>

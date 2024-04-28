@@ -43,7 +43,7 @@
                             <li><a class="dropdown-item" href="Men.aspx">Man</a></li>
                             <li><a class="dropdown-item" href="Women.aspx">Woman</a></li>
                             <li><a class="dropdown-item" href="Teen.aspx">Teen & Kids</a></li>
-                            <li><a class="dropdown-item" href="Perfumes.aspx">Perfumes</a></li>
+                            <li><a class="dropdown-item" href="ProductDetail.aspx">Perfumes</a></li>
                         </ul>
                     </li>
                 </ul>
