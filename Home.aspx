@@ -8,38 +8,38 @@
     <div class="container px-4 px-lg-5">
         <div class="row gx-4 gx-lg-5 align-items-center my-5">
             <div class="col-lg-7">
-                
+
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-                  <ol class="carousel-indicators">
-                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""></li>
-                  </ol>
-                  <div class="carousel-inner">
-                    <div class="carousel-item active carousel-item-left">
-                      <img class="d-block w-100" src="Content/dist/img/D18.jpg" alt="First slide">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active carousel-item-left">
+                            <img class="d-block w-100" src="Content/dist/img/D18.jpg" alt="First slide">
+                        </div>
+                        <div class="carousel-item carousel-item-next carousel-item-left">
+                            <img class="d-block w-100" src="Content/dist/img/hmgoepprod.jpeg" alt="Second slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="Content/dist/img/D11.jpg" alt="Third slide">
+                        </div>
                     </div>
-                    <div class="carousel-item carousel-item-next carousel-item-left">
-                      <img class="d-block w-100" src="Content/dist/img/hmgoepprod.jpeg" alt="Second slide">
-                    </div>
-                    <div class="carousel-item">
-                      <img class="d-block w-100" src="Content/dist/img/D11.jpg" alt="Third slide">
-                    </div>
-                  </div>
-                  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                    <span class="carousel-control-custom-icon" aria-hidden="true">
-                      <i class="fas fa-chevron-left"></i>
-                    </span>
-                    <span class="sr-only">Previous</span>
-                  </a>
-                  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                    <span class="carousel-control-custom-icon" aria-hidden="true">
-                      <i class="fas fa-chevron-right"></i>
-                    </span>
-                    <span class="sr-only">Next</span>
-                  </a>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="carousel-control-custom-icon" aria-hidden="true">
+                            <i class="fas fa-chevron-left"></i>
+                        </span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="carousel-control-custom-icon" aria-hidden="true">
+                            <i class="fas fa-chevron-right"></i>
+                        </span>
+                        <span class="sr-only">Next</span>
+                    </a>
                 </div>
-              </div>
+            </div>
             <div class="col-lg-5">
                 <h1 class="font-weight-light">Business Name or Tagline</h1>
                 <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it makes a great use of the standard Bootstrap core components. Feel free to use this template for any project you want!</p>
@@ -49,7 +49,7 @@
         <!-- Call to Action-->
         <div class="card text-xl-center bg-dark my-5 py-4">
             <div class="card-body row align-items-lg-center justify-content-center">
-                <h2 class=" text-info m-0">Would you like a 10% discount? Become an Member today</h2>                
+                <h2 class=" text-info m-0">Would you like a 10% discount? Become an Member today</h2>
                 <i class="px-3 fa-2x far fa-arrow-alt-circle-right"></i>
 
             </div>
@@ -85,7 +85,7 @@
             </div>
         </div>
     </div>
-    1
+
     <section class="py-5 bg-light">
         <div class="container px-4 px-lg-5 mt-5">
             <h2 class="fw-bolder mb-4">Related products</h2>
