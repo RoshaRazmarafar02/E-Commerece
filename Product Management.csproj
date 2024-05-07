@@ -2021,7 +2021,6 @@
     <Content Include="Content\plugins\uplot\uPlot.iife.js" />
     <Content Include="Content\plugins\uplot\uPlot.iife.min.js" />
     <Content Include="Content\plugins\uplot\uPlot.min.css" />
-    <Content Include="DeleteCategory.aspx" />
     <Content Include="EditCategory.aspx" />
     <Content Include="EditProduct.aspx" />
     <Content Include="Home.aspx" />
@@ -2035,7 +2034,6 @@
     <Content Include="Teen.aspx" />
     <Content Include="Web.config" />
     <Content Include="AddCategory.aspx" />
-    <Content Include="DeleteProduct.aspx" />
     <Content Include="Women.aspx" />
   </ItemGroup>
   <ItemGroup>
@@ -2059,13 +2057,6 @@
     </Compile>
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="DeleteCategory.aspx.cs">
-      <DependentUpon>DeleteCategory.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="DeleteCategory.aspx.designer.cs">
-      <DependentUpon>DeleteCategory.aspx</DependentUpon>
     </Compile>
     <Compile Include="EditCategory.aspx.cs">
       <DependentUpon>EditCategory.aspx</DependentUpon>
@@ -2158,13 +2149,6 @@
     </Compile>
     <Compile Include="Site2.Master.designer.cs">
       <DependentUpon>Site2.Master</DependentUpon>
-    </Compile>
-    <Compile Include="DeleteProduct.aspx.cs">
-      <DependentUpon>DeleteProduct.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="DeleteProduct.aspx.designer.cs">
-      <DependentUpon>DeleteProduct.aspx</DependentUpon>
     </Compile>
     <Compile Include="Teen.aspx.cs">
       <DependentUpon>Teen.aspx</DependentUpon>
