@@ -66,4 +66,4 @@
 # Tell GitHub Linguist to ignore vendored Bootstrap/AdminLTE assets so that
 # C# is reported as the primary language instead of JavaScript.
 ###############################################################################
-Content/dist/** linguist-vendored
+Content/** linguist-vendored
